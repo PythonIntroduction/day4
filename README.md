@@ -1,4 +1,4 @@
-# Day 3: Objects and Classes
+# Day 4: Objects and Classes
 Start with the notebook classes_and_objects before proceeding to classes_and_objects_advanced.
 
 ## Credits and license
